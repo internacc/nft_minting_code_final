@@ -1,4 +1,5 @@
 # nft_minting_code_final links and documentations
+* What is [Hardhat](https://hardhat.org/)? How to [setup](https://hardhat.org/getting-started/) the hardhat?
 * [How to mint an nft?](https://docs.palm.io/HowTo/Mint-NFT-using-Hardhat/)
 * [Alchemy](https://www.alchemy.com/) - Provides the leading blockchain development platform. 
 * Alchemy documentation for deploying smart contract using hardhat on polygon-[Link](https://docs.alchemy.com/alchemy/tutorials/how-to-code-and-deploy-a-polygon-smart-contract)
