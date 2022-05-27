@@ -8,3 +8,7 @@
 * [Polygon Faucet](https://faucet.polygon.technology/) for getting the free matic for deploying the smart contract on blockchain and for the transcation purpose.
 * [Adding a polygon network](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/) on the metamask that has been used for the deploying the smart contract as well as nft for minting.
 * [Polygonscan](https://mumbai.polygonscan.com/) to see the deployed contract on the polygon network.
+
+
+## <center>Final Result</center>
+![image](https://user-images.githubusercontent.com/102132891/170714495-acaee2f0-fa7b-486c-a4cb-d9934a4259bb.png)
