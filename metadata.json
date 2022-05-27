@@ -1,0 +1,19 @@
+{
+    "description": "pfp",
+    "image": "QmZ2cjsRZK5F8VMccNEE6vN4AAXAkD1gN7YmvwJxuvwNza",
+    "name": "try1 whatsapp img 1",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "White"
+        },
+        {
+            "trait_type": "Logo",
+            "value": "Cutting Edge visionaries"
+        },
+        {
+            "trait_type": "College",
+            "value": "Sardar Vallabhbhai National Institute of Technology"
+        }
+    ]
+}
