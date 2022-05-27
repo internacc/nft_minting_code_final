@@ -1,5 +1,5 @@
 # nft_minting_code_final links and documentations
-* (How to mint an nft?)[https://docs.palm.io/HowTo/Mint-NFT-using-Hardhat/)]
+* (https://docs.palm.io/HowTo/Mint-NFT-using-Hardhat/)[How to mint an nft?]
 * (Alchemy)[https://www.alchemy.com/] - Provides the leading blockchain development platform. 
 * Alchemy documentation for deploying smart contract using hardhat on polygon-(Link)[https://docs.alchemy.com/alchemy/tutorials/how-to-code-and-deploy-a-polygon-smart-contract]
 * (Pinata)[https://app.pinata.cloud/] is a software used for uploading the media files (<strong>of the nft</strong>) as well as the metadata files of the nft to IPFS.
